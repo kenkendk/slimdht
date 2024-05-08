@@ -12,7 +12,7 @@
     <ProjectReference Include="..\..\..\Udvikler\LeanIPC\LeanIPC\LeanIPC.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="log4net" Version="2.0.17" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="log4net.config" />
